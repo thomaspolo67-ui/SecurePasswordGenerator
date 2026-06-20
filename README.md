@@ -18,38 +18,12 @@ SecurePasswordGenerator es una herramienta ligera para generar contraseñas alea
 
 ## Capturas
 
-> Añade aquí una o dos capturas de pantalla si tienes una interfaz gráfica:
-- `docs/screenshot-1.png`
-- `docs/screenshot-2.png`
+
+
 
 ## Tecnologías
 
-- HTML / CSS / JavaScript (si es app web)
-- O Node.js (si hay backend o paquete CLI)
-- (Ajusta según corresponda)
-
-## Requisitos
-
-- Navegador moderno (para la versión web)
-- Node.js >= 14 (si existe una versión con npm/CLI)
-
-## Instalación (versión web)
-
-1. Clona el repositorio:
-   git clone https://github.com/thomaspolo67-ui/SecurePasswordGenerator.git
-2. Abre `index.html` en tu navegador.
-
-## Instalación (versión con Node / desarrollo)
-
-1. Clona el repositorio:
-   git clone https://github.com/thomaspolo67-ui/SecurePasswordGenerator.git
-2. Entra a la carpeta del proyecto:
-   cd SecurePasswordGenerator
-3. Instala dependencias:
-   npm install
-4. Inicia la app en modo desarrollo:
-   npm start
-(Ajusta estos pasos si tu proyecto usa otra estructura o empaquetador.)
+- python
 
 ## Uso
 
