@@ -18,6 +18,7 @@ SecurePasswordGenerator es una herramienta ligera para generar contraseñas alea
 
 ## Capturas
 
+<img width="1366" height="705" alt="image" src="https://github.com/user-attachments/assets/5291b878-f12f-4eb4-bfde-55a8858177b2" />
 
 
 
