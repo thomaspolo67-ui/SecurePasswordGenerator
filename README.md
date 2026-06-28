@@ -25,6 +25,12 @@ SecurePasswordGenerator es una herramienta ligera para generar contraseñas alea
 ## Tecnologías
 
 - python
+- Visual Studio Code
+- Librerías:
+-Tkinter
+-Random
+-String
+
 
 ## Uso
 
